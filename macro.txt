@@ -1,0 +1,50 @@
+LOOP 20
+    a 0.1s
+    2s
+    a 0.1s
+    15s
+    a 0.1s
+    5s
+    a 0.1s
+    5s
+    a 0.1s
+    5s
+    a 0.1s
+    5s
+    a 0.1s
+    5s
+    a 0.1s
+    5s
+    L_STICK@+000+100 0.75s
+    1.0s
+    B 0.1s
+    5s
+    LOOP 20
+        B 0.1s
+        1S
+    LOOP 20
+        B 0.1s
+        1S
+    LOOP 10
+        B 0.1s
+        1S
+    5S
+    L_STICK@+100+000 0.75s
+    0.5S
+    L_STICK@+100+000 0.75s
+    0.5S
+    a 0.1s
+    1s
+    L_STICK@+000+100 0.75s
+    0.5S
+    a 0.1s
+    1s
+    30s
+    home 0.1s
+    1s
+    x 1s
+    1s
+    L_STICK@+100+000 0.75s
+    0.5S
+    a 0.1s
+    1s
